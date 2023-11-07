@@ -1,0 +1,20 @@
+{
+  "name": "cypress-internet",
+  "version": "0.0.1",
+  "description": "Junior Level Course",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "junior",
+    "herokuapp"
+  ],
+  "author": "alexander vorvule",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  }
+}
